@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "#minecraft:buttons", "required": false },
+    { "id": "#minecraft:pressure_plates", "required": false },
+    { "id": "#minecraft:flowers", "required": false },
+    { "id": "#minecraft:saplings", "required": false },
+    { "id": "#minecraft:crops", "required": false },
+    { "id": "minecraft:lever", "required": false },
+    { "id": "minecraft:redstone_wire", "required": false },
+    { "id": "minecraft:torch", "required": false },
+    { "id": "minecraft:soul_torch", "required": false },
+    { "id": "minecraft:redstone_torch", "required": false },
+    { "id": "minecraft:ladder", "required": false },
+    { "id": "minecraft:vine", "required": false }
+  ]
+}

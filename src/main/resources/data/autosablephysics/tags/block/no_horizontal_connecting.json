@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "#autosablephysics:leaf_horizontal_limited", "required": false },
+    { "id": "#autosablephysics:granular_horizontal_limited", "required": false },
+    { "id": "#autosablephysics:terrain_horizontal_limited", "required": false }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "commands.autosablephysics.scan.success": "Auto Sable 扫描完成：物理化 %s 个物体，共 %s 个方块。候选起点：%s。跳过：过大=%s，碰到边界=%s，仍有底部支撑=%s，过小=%s。",
+  "commands.autosablephysics.remove_all_sable.success": "已请求 Sable 移除所有匹配的 sub-level 实体。",
+  "item.autosablephysics.sable_hammer": "Sable 锤子（锤面）",
+  "item.autosablephysics.sable_hammer_claw": "Sable 锤子（齿面）",
+  "item.autosablephysics.sable_hammer.mode": "锤子模式：%s",
+  "item.autosablephysics.sable_hammer.mode_hammer": "锤面：保存物理体，禁止自动还原",
+  "item.autosablephysics.sable_hammer.mode_claw": "齿面：手动还原物理体",
+  "item.autosablephysics.sable_hammer.no_sublevel": "未检测到 Sable 物理体。",
+  "item.autosablephysics.sable_hammer.pinned": "已保存该 Sable 物理体：它不会被 Auto Sable Physics 自动还原。",
+  "item.autosablephysics.sable_hammer.restored": "已还原 Sable 物理体，共放置 %s 个方块。",
+  "item.autosablephysics.sable_hammer.restore_failed": "还原失败：%s。",
+  "item.autosablephysics.sable_hammer.no_hammer": "主手没有 Sable 锤子。"
+}

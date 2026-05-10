@@ -1,0 +1,14 @@
+{
+  "commands.autosablephysics.scan.success": "Auto Sable scan: assembled %s object(s), %s block(s). Candidates: %s. Skipped: too many=%s, boundary=%s, supported=%s, too small=%s.",
+  "commands.autosablephysics.remove_all_sable.success": "Requested Sable to remove all matching sub-level entities.",
+  "item.autosablephysics.sable_hammer": "Sable Hammer (Hammer Face)",
+  "item.autosablephysics.sable_hammer_claw": "Sable Hammer (Claw Face)",
+  "item.autosablephysics.sable_hammer.mode": "Hammer mode: %s",
+  "item.autosablephysics.sable_hammer.mode_hammer": "Hammer face: pin sub-level and prevent auto-restore",
+  "item.autosablephysics.sable_hammer.mode_claw": "Claw face: manually restore sub-level blocks",
+  "item.autosablephysics.sable_hammer.no_sublevel": "No Sable sub-level detected.",
+  "item.autosablephysics.sable_hammer.pinned": "Pinned this Sable sub-level. Auto Sable Physics will not auto-restore it.",
+  "item.autosablephysics.sable_hammer.restored": "Restored Sable sub-level with %s block(s).",
+  "item.autosablephysics.sable_hammer.restore_failed": "Restore failed: %s.",
+  "item.autosablephysics.sable_hammer.no_hammer": "No Sable hammer in main hand."
+}
