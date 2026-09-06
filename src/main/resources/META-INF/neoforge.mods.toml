@@ -28,6 +28,6 @@ side="BOTH"
 [[dependencies.autosablephysics]]
 modId="sable"
 type="required"
-versionRange="[1.2.2,1.3.0)"
+versionRange="[2.0.0,)"
 ordering="AFTER"
 side="BOTH"
